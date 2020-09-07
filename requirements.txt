@@ -63,3 +63,4 @@ urbandict
 validators
 wikipedia
 youtube-dl
+jikanpy
