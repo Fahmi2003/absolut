@@ -2,7 +2,7 @@ import os
 import sys
 from telethon.sessions import StringSession
 from telethon import TelegramClient
-from var import Var
+from var import var
 from pylast import LastFMNetwork, md5
 from logging import basicConfig, getLogger, INFO, DEBUG
 from distutils.util import strtobool as sb
